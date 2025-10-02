@@ -2,10 +2,10 @@
 📡 Intercept Instagram network traffic on Android device/emulator
 
 ## 📌 Latest Tested App Version
-- 🎯 Instagram App version: **400.0.0.0.10**
+- 🎯 Instagram App version: **401.0.0.0.70**
 - 🏗️ Architecture: **arm64**, **armv7**, **x86**, **x86_64**
 
-![main desktop](https://raw.githubusercontent.com/SHAJON-404/Instagram-SSL-Pinning-Bypass/main/IMAGE/v400.jpg)
+![main desktop](https://raw.githubusercontent.com/SHAJON-404/Instagram-SSL-Pinning-Bypass/main/IMAGE/v401.jpg)
 
 ![headers desktop](https://raw.githubusercontent.com/SHAJON-404/Instagram-SSL-Pinning-Bypass/main/IMAGE/instagram2.jpg)
 
@@ -14,7 +14,7 @@
 2. 📲 Android emulator (Nox/LDPlayer)  
 3. ⚙️ Root access on emulator  
 
-## 🆘 Need Assistance? Contact Me
+## 🆘 Need Bypass? Contact Me
 <p align="left">
   <a href="https://t.me/DarknessKing999" target="_blank">
     <img src="https://img.shields.io/badge/💬_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20" alt="Telegram" style="border-radius: 8px;"/>
