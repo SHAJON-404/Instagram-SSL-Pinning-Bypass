@@ -2,10 +2,10 @@
 📡 Intercept Instagram network traffic on Android device/emulator
 
 ## 📌 Latest Tested App Version
-- 🎯 Instagram App version: **403.0.0.49.74**
-- 🏗️ Architecture: **arm64**, **armv7**, **x86**, **x86_64**
+- 🎯 Instagram App version: **406.0.0.58.159**
+- 🏗️ Architecture: **arm64-v8a**, **armeabi-v7a**, **x86**, **x86_64**
 
-![main desktop](https://raw.githubusercontent.com/SHAJON-404/Instagram-SSL-Pinning-Bypass/main/IMAGE/v403.jpg)
+![main desktop](https://raw.githubusercontent.com/SHAJON-404/Instagram-SSL-Pinning-Bypass/main/IMAGE/v406.jpg)
 
 ![headers desktop](https://raw.githubusercontent.com/SHAJON-404/Instagram-SSL-Pinning-Bypass/main/IMAGE/instagram2.jpg)
 
