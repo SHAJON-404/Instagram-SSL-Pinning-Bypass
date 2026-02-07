@@ -29,7 +29,7 @@
  - Install Modified APK & run http traffic capture tool
 
 ## 🔧 For Demo
-- Download and install the Instagram v390.0.0.43.81 APK from the Releases section.  
+- Download and install the Instagram v390.0.0.43.81 APK from the [Releases section](https://github.com/SHAJON-404/Instagram-SSL-Pinning-Bypass/releases/tag/demo).  
 - Install the downloaded APK and enjoy 🙂
 
 ## Looking for leatest version modified apk? Contact me on Telegram
