@@ -2,7 +2,7 @@
 📡 Intercept Instagram network traffic on Android device
 
 ## 📌 Latest Tested App Version
-- 🎯 Instagram version: **415.0.0.36.76**
+- 🎯 Instagram version: **416.0.0.47.66**
 - Architecture: **arm64-v8a, X86_64**
 - For any inquiries, please contact me on Telegram [https://t.me/DarknessKing999](https://t.me/DarknessKing999)
 
