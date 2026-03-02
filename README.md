@@ -2,12 +2,12 @@
 📡 Intercept Instagram network traffic on Android device
 
 ## 📌 Latest Tested App Version
-- 🎯 Instagram version: **416.0.0.47.66**
+- 🎯 Instagram version: **418.0.0.517.77**
 - Architecture: **arm64-v8a, X86_64**
 - For any inquiries, please contact me on Telegram [https://t.me/DarknessKing999](https://t.me/DarknessKing999)
 
 ## 🎥 Evidence
-![Instagram Android](https://raw.githubusercontent.com/shajon-dev/Instagram-SSL-Pinning-Bypass/main/IMAGE/v415.jpg)
+![Instagram Android](https://raw.githubusercontent.com/shajon-dev/Instagram-SSL-Pinning-Bypass/main/IMAGE/v418.jpg)
 
 ![Response](https://raw.githubusercontent.com/SHAJON-404/Instagram-SSL-Pinning-Bypass/main/IMAGE/instagram2.jpg)
 
@@ -38,3 +38,21 @@
     <img src="https://img.shields.io/badge/💬_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20" alt="Telegram" style="border-radius: 8px;"/>
   </a>
 </p>
+---
+
+## 📜 License
+
+This project is licensed under the  
+**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** License.
+
+You are free to:
+- Share — copy and redistribute the material
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution — You must give appropriate credit to the original author (S. SHAJON).
+- NonCommercial — You may not use this project for commercial or professional purposes.
+
+⚠ Commercial or professional use requires prior written permission from the author.
+
+🔗 Full License: https://creativecommons.org/licenses/by-nc/4.0/
