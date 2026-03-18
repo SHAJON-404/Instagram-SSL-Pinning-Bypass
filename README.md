@@ -7,9 +7,8 @@
 - For any inquiries, please contact me on Telegram [https://t.me/DarknessKing999](https://t.me/DarknessKing999)
 
 ## 🎥 Evidence
-![Instagram Android](https://raw.githubusercontent.com/shajon-dev/Instagram-SSL-Pinning-Bypass/main/IMAGE/v418.jpg)
-
-![Response](https://raw.githubusercontent.com/SHAJON-404/Instagram-SSL-Pinning-Bypass/main/IMAGE/instagram2.jpg)
+![Instagram Android](assets/v418.jpg)
+![Response](assets/instagram2.jpg)
 
 ## ✅ Other Apps
 1. [Instagram iOS](https://github.com/shajon-dev/iOS-Instagram-SSL-Pinning-Bypass)
@@ -26,7 +25,7 @@
 2. 🔄 ProxyPin or Reqable App for traffic capture
 
 ## 🎶 Setup Process
- - Install Modified APK & run http traffic capture tool
+- Install Modified APK & run http traffic capture tool
 
 ## 🔧 For Demo
 - Download and install the Instagram v390.0.0.43.81 APK from the [Releases section](https://github.com/SHAJON-404/Instagram-SSL-Pinning-Bypass/releases/tag/demo).  
@@ -38,7 +37,6 @@
     <img src="https://img.shields.io/badge/💬_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20" alt="Telegram" style="border-radius: 8px;"/>
   </a>
 </p>
----
 
 ## 📜 License
 
