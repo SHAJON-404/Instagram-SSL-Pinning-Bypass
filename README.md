@@ -2,8 +2,8 @@
 📡 Intercept Instagram network traffic on Android device
 
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **422.0.0.0.48**
-- Architecture: **arm64-v8a, X86_64**
+- App version: **422.0.0.44.64**
+- Architecture: **arm64-v8a, x86_64**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Burp Suite](https://portswigger.net/burp), [HTTP Toolkit](https://httptoolkit.com/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/DarknessKing999](https://t.me/DarknessKing999)
 
@@ -34,13 +34,13 @@
     </tr>
     <tr>
       <th align="center">arm64-v8a</th>
-      <th align="center">X86_64</th>
+      <th align="center">x86_64</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td rowspan="2" align="center"><code>com.instagram.android</code></td>
-      <td align="center">422.0.0.0.48</td>
+      <td align="center">422.0.0.44.64</td>
       <td align="center">✅ Bypassed</td>
       <td colspan="2" align="center"><a href="https://t.me/DarknessKing999">Contact Telegram</a></td>
     </tr>
