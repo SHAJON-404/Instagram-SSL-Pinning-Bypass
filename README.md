@@ -31,6 +31,17 @@
 - Download and install the Instagram v390.0.0.43.81 APK from the [Releases section](https://github.com/SHAJON-404/Instagram-SSL-Pinning-Bypass/releases/tag/demo).  
 - Install the downloaded APK and enjoy 🙂
 
+## ☕ Donation
+
+If this project helped you, consider buying me a coffee! ❤️
+
+| Coin | Network | Address |
+| :--- | :--- | :--- |
+| <table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="https://cryptologos.cc/logos/tether-usdt-logo.svg" width="20" /></td><td>&nbsp;<b>USDT</b></td></tr></table> | TRC20 [TRX Network] | `TAsPdCxkX9CeErJ4vw7xBHfZDT6vpdfmwH` |
+| <table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" width="20" /></td><td>&nbsp;<b>ANY Crypto</b></td></tr></table> | ETH / BSC | `0x22d4f314acbf6055b0a37df8df68f9cd40ba889a` |
+| <table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg" width="20" /></td><td>&nbsp;<b>BTC</b></td></tr></table> | Bitcoin Network | `14RYf4pw7v2rtttLxRch2StjFzFAn9ycCE` |
+
+
 ## Looking for leatest version modified apk? Contact me on Telegram
 <p align="left">
   <a href="https://t.me/DarknessKing999" target="_blank">
