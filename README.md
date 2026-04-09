@@ -2,13 +2,13 @@
 📡 Intercept Instagram network traffic on Android device
 
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **423.0.0.47.66**
+- App version: **424.0.0.49.64**
 - Architecture: **arm64-v8a, armeabi-v7a, x86, x86_64**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Burp Suite](https://portswigger.net/burp), [HTTP Toolkit](https://httptoolkit.com/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/DarknessKing999](https://t.me/DarknessKing999)
 
 ## 🎥 Evidence
-![Instagram Android](assets/v423.jpg)
+![Instagram Android](assets/v424.jpg)
 ![Response](assets/instagram2.jpg)
 
 ## ✅ Other Apps
@@ -30,6 +30,7 @@
       <th rowspan="2" align="center">Package Name</th>
       <th rowspan="2" align="center">Version</th>
       <th rowspan="2" align="center">Status</th>
+      <th rowspan="2" align="center">Working on Non root device</th>
       <th colspan="2" align="center">Download Link</th>
     </tr>
     <tr>
@@ -40,13 +41,15 @@
   <tbody>
     <tr>
       <td rowspan="2" align="center"><code>com.instagram.android</code></td>
-      <td align="center">423.0.0.47.66</td>
+      <td align="center">424.0.0.49.64</td>
       <td align="center">✅ Bypassed</td>
+      <td align="center">Yes</td>
       <td colspan="2" align="center"><a href="https://t.me/DarknessKing999">Contact Telegram</a></td>
     </tr>
     <tr>
       <td align="center">390.0.0.43.81</td>
       <td align="center">✅ Bypassed</td>
+      <td align="center">Yes</td>
       <td align="center"><a href="https://github.com/SHAJON-404/Instagram-SSL-Pinning-Bypass/releases">Download Link</a></td>
       <td align="center"><a href="https://github.com/SHAJON-404/Instagram-SSL-Pinning-Bypass/releases">Download Link</a></td>
     </tr>
