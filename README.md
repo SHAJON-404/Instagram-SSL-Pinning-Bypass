@@ -2,14 +2,13 @@
 📡 Intercept Instagram network traffic on Android device
 
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **426.0.0.37.68**
+- App version: **429.0.0.44.70**
 - Architecture: **arm64-v8a, armeabi-v7a, x86, x86_64**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/DarknessKing999](https://t.me/DarknessKing999)
 
 ## 🎥 Evidence
-![Instagram Android](assets/v426.jpg)
-![Response](assets/instagram2.jpg)
+![Instagram Android](assets/v429.jpg)
 
 ## ✅ Other Apps
 1. [Instagram iOS](https://github.com/shajon-dev/iOS-Instagram-SSL-Pinning-Bypass)
@@ -41,7 +40,7 @@
   <tbody>
     <tr>
       <td rowspan="2" align="center"><code>com.instagram.android</code></td>
-      <td align="center">426.0.0.37.68</td>
+      <td align="center">429.0.0.44.70</td>
       <td align="center">✅ Bypassed</td>
       <td align="center">Yes</td>
       <td colspan="2" align="center"><a href="https://t.me/DarknessKing999">Contact Telegram</a></td>
@@ -64,7 +63,7 @@ If this project helped you, consider buying me a coffee! ❤️
 
 | Coin | Network | Address |
 | :--- | :--- | :--- |
-| <table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="https://cryptologos.cc/logos/binance-coin-bnb-logo.svg" width="20" /></td><td>&nbsp;<b>Binance</b></td></tr></table> | Binance Pay (UID) | `839622149` |
+| <table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="https://cryptologos.cc/logos/history/bnb-bnb-logo.svg" width="20" /></td><td>&nbsp;<b>Binance</b></td></tr></table> | Binance Pay (UID) | `839622149` |
 | <table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="https://cryptologos.cc/logos/tether-usdt-logo.svg" width="20" /></td><td>&nbsp;<b>USDT</b></td></tr></table> | TRC20 [TRX Network] | `TAsPdCxkX9CeErJ4vw7xBHfZDT6vpdfmwH` |
 | <table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" width="20" /></td><td>&nbsp;<b>ANY Crypto</b></td></tr></table> | ETH / BSC | `0x22d4f314acbf6055b0a37df8df68f9cd40ba889a` |
 | <table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg" width="20" /></td><td>&nbsp;<b>BTC</b></td></tr></table> | Bitcoin Network | `14RYf4pw7v2rtttLxRch2StjFzFAn9ycCE` |
