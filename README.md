@@ -5,7 +5,7 @@
 - App version: **433.0.0.0.56**
 - Architecture: **arm64-v8a, armeabi-v7a, x86, x86_64**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
-- For any inquiries, please contact me on Telegram [https://t.me/DarknessKing999](https://t.me/DarknessKing999)
+- For any inquiries, please contact me on Telegram [https://t.me/SHAJON](https://t.me/SHAJON)
 
 ## 🎥 Evidence
 ![Instagram Android](assets/v433.jpg)
@@ -43,7 +43,7 @@
       <td align="center">433.0.0.0.56</td>
       <td align="center">✅ Bypassed</td>
       <td align="center">Yes</td>
-      <td colspan="2" align="center"><a href="https://t.me/DarknessKing999">Contact Telegram</a></td>
+      <td colspan="2" align="center"><a href="https://t.me/SHAJON">Contact Telegram</a></td>
     </tr>
     <tr>
       <td align="center">390.0.0.43.81</td>
@@ -74,7 +74,7 @@ If this project helped you, consider buying me a coffee! ❤️
 
 ## Looking for leatest version modified apk? Contact me on Telegram
 <p align="left">
-  <a href="https://t.me/DarknessKing999" target="_blank">
+  <a href="https://t.me/SHAJON" target="_blank">
     <img src="https://img.shields.io/badge/💬_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20" alt="Telegram" style="border-radius: 8px;"/>
   </a>
 </p>
