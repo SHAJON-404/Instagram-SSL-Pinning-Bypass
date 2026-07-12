@@ -2,13 +2,13 @@
 📡 Intercept Instagram network traffic on Android device
 
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **436.0.0.41.73**
+- App version: **437.0.0.33.78**
 - Architecture: **arm64-v8a, armeabi-v7a, x86, x86_64**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/SHAJON](https://t.me/SHAJON)
 
 ## 🎥 Evidence
-![Instagram Android](assets/v436.jpg)
+![Instagram Android](assets/v437.jpg)
 
 ## ✅ Other Apps
 1. [Instagram iOS](https://github.com/shajon-dev/iOS-Instagram-SSL-Pinning-Bypass)
@@ -40,7 +40,7 @@
   <tbody>
     <tr>
       <td rowspan="2" align="center"><code>com.instagram.android</code></td>
-      <td align="center">436.0.0.41.73</td>
+      <td align="center">437.0.0.33.78</td>
       <td align="center">✅ Bypassed</td>
       <td align="center">Yes</td>
       <td colspan="2" align="center"><a href="https://t.me/SHAJON">Contact Telegram</a></td>
