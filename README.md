@@ -23,6 +23,7 @@
 8. [Business Suite Android](https://github.com/shajon-dev/Meta-Business-Suit-SSL-Pinning-Bypass)
 9. [Business Suite iOS](https://github.com/shajon-dev/iOS-Meta-Business-Suit-SSL-Pinning-Bypass)
 10. [TikTok iOS](https://github.com/shajon-dev/iOS-TikTok-SSL-Pinning-Bypass)
+11. [TikTok Android](https://github.com/shajon-dev/TikTok-SSL-Pinning-Bypass)
 
 ## 📦 For Demo - Download Official APKs
   - For any issues, contact me on Telegram. Read [setup process](#-setup-process) carefully before use.
