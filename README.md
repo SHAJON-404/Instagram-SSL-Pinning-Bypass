@@ -1,16 +1,26 @@
+<div align="center">
+
 # 🔐 Instagram-SSL-Pinning-Bypass
-📡 Intercept Instagram network traffic on Android device
+📡 Capture and inspect Instagram's network traffic on Android — no root required.
 
 > 💡 **GOOD NEWS:** You do **not** need a rooted device to use this! It works flawlessly on **non-rooted** devices and has been successfully tested using **Mitmproxy** in a non-root environment.
 
+</div>
+
+---
+
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **441.0.0.43.81**
+- App version: **443.0.0.48.82**
 - Architecture: **arm64-v8a, armeabi-v7a, x86, x86_64**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/SHAJON](https://t.me/SHAJON)
 
+---
+
 ## 🎥 Evidence
-![Instagram Android](assets/v441.jpg)
+![Instagram Android](assets/v443.jpg)
+
+---
 
 ## ✅ Other Apps
 1. [Instagram iOS](https://github.com/shajon-dev/iOS-Instagram-SSL-Pinning-Bypass)
@@ -24,6 +34,8 @@
 9. [Business Suite iOS](https://github.com/shajon-dev/iOS-Meta-Business-Suit-SSL-Pinning-Bypass)
 10. [TikTok iOS](https://github.com/shajon-dev/iOS-TikTok-SSL-Pinning-Bypass)
 11. [TikTok Android](https://github.com/shajon-dev/TikTok-SSL-Pinning-Bypass)
+
+---
 
 ## 📦 For Demo - Download Official APKs
   - For any issues, contact me on Telegram. Read [setup process](#-setup-process) carefully before use.
@@ -47,7 +59,7 @@
   <tbody>
     <tr>
       <td rowspan="3" align="center"><code>com.instagram.android</code></td>
-      <td align="center">441.0.0.43.81</td>
+      <td align="center">443.0.0.48.82</td>
       <td align="center">✅ Bypassed</td>
       <td align="center">✅ Yes</td>
       <td colspan="4" align="center"><a href="https://t.me/SHAJON">Contact Telegram</a></td>
@@ -67,6 +79,18 @@
   </tbody>
 </table>
 
+---
+
+<div align="center">
+
+### ⭐ Found this useful?
+
+**Star the repository** to support the project and stay updated with new free releases!
+
+</div>
+
+---
+
 ## 📱 Requirements
 1. 📱 **No root needed** — runs on any Android phone or emulator. Recommended emulator: **LDPlayer 9 (Android 9)**.
 2. 🔎 **Pick the right architecture (ABI).** Check your device's ABI first (recommended) with the ADB command below — or any device-info app such as CPU-Z — then grab the matching build:
@@ -78,11 +102,15 @@
    - 💻 **Emulator (Android 9 / LDPlayer 9)** → normally **`x86_64`**
 3. 🔄 Traffic capture tools: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 
+---
+
 ## 🔧 Setup Process
  1. ⬇️ **Download the patched APK** from the [GitHub Releases](https://github.com/SHAJON-404/Instagram-SSL-Pinning-Bypass/releases) page, choosing the file that matches your device architecture (`arm64-v8a` / `armeabi-v7a` / `x86` / `x86_64`).
  2. 📲 **Install the APK** on your Android device (uninstall the original app first if it is already installed).
  3. 🔄 Configure a proxy and use [Mitmproxy](https://mitmproxy.org/) or [Reqable](https://reqable.com/) to capture and monitor Instagram network traffic.
  4. ✅ **No root required** — this works on non-rooted devices as well.
+
+---
 
 ## 💼 Professional Services & Custom Solutions
 
@@ -100,6 +128,8 @@ If a specific bypass is not available on my GitHub, or if you have a custom proj
     <img src="https://img.shields.io/badge/💬_Let's_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20" alt="Telegram" style="border-radius: 8px;"/>
   </a>
 </p>
+
+---
 
 ## ☕ Buy Me a Coffee
 
